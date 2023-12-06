@@ -1,0 +1,7 @@
+D:\Puc Minas\C#\Pastas de compilação\BINGO\bin\Debug\BINGO.exe.config
+D:\Puc Minas\C#\Pastas de compilação\BINGO\bin\Debug\BINGO.exe
+D:\Puc Minas\C#\Pastas de compilação\BINGO\bin\Debug\BINGO.pdb
+D:\Puc Minas\C#\Pastas de compilação\BINGO\obj\Debug\BINGO.csproj.AssemblyReference.cache
+D:\Puc Minas\C#\Pastas de compilação\BINGO\obj\Debug\BINGO.csproj.CoreCompileInputs.cache
+D:\Puc Minas\C#\Pastas de compilação\BINGO\obj\Debug\BINGO.exe
+D:\Puc Minas\C#\Pastas de compilação\BINGO\obj\Debug\BINGO.pdb
